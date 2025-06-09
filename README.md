@@ -37,7 +37,7 @@ Chart.js (Data Visualization)
 **How to Use This Repository**
 **1. Clone the Repository** 
  terminal-code
- git clone https://github.com/swayamprakashm/Skill-Development-Lab.git
+ git clone https://github.com/prav-jav-code/SDCB5.git
  cd Skill-Development-Lab
 **2. Open Specific Experiment**
  Use VS Code or any IDE of your choice to explore each folder.
