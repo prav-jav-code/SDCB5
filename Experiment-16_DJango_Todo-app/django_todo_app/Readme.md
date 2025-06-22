@@ -81,4 +81,5 @@ Contributing
 Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
 
 Author
-•tarunteja
+Praveen
+![Image](https://github.com/user-attachments/assets/6f1a7c58-b48a-4e8e-b81f-8146796f9a94)
