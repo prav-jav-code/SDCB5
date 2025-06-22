@@ -107,7 +107,8 @@ LICENSE
 This project is open-source and available under the MIT License
 
 Author
-•tarunteja
+Praveen
 
 Contributing
+![Image](https://github.com/user-attachments/assets/29c98b26-cea0-49ca-bace-37a0f9059711)
 Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
